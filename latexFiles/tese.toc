@@ -1,0 +1,42 @@
+\vspace {-\cftbeforepartskip }
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {portuguese}{}
+\contentsline {chapter}{\numberline {1}{Introdu\c {c}\~ao}}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}{Uma abordagem sucinta sobre processos markovianos}}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}{Espa\c {c}o de Probabilidades}}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}{Vari\'aveis Aleat\'orias}}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}{Processo de Poisson}}{11}{section.2.3}%
+\contentsline {section}{\numberline {2.4}{Cadeias de Markov}}{12}{section.2.4}%
+\contentsline {chapter}{\numberline {3}{Grupos Cl\'assicos}}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}{Conceitos Gerais}}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}{Grupos topol\'ogicos}}{20}{section.3.2}%
+\contentsline {section}{\numberline {3.3}{Grupo de Matrizes de Lie}}{22}{section.3.3}%
+\contentsline {chapter}{\numberline {4}{\'Algebras}}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}{Conceitos B\'asicos}}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}{\'Algebras de Lie}}{30}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}{Defini\c {c}\~oes Gerais}}{30}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}{\'Algebras de Lie semi-simples e a Representa\c {c}\~ao Adjunta}}{34}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}{A \'Algebra Linear Especial de Lie $sl_2(\PazoBB {R})$}}{35}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}{ O Espa\c {c}o Tangente e suas propriedades algébricas}}{36}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}{Bi\'algebras}}{39}{section.4.3}%
+\contentsline {chapter}{\numberline {5}{Matrizes Estoc\'asticas}}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}{O grupo das Matrizes Estoc\'asticas e seu Espa\c {c}o Tangente}}{44}{section.5.1}%
+\contentsline {section}{\numberline {5.2}{Rela\c {c}\~ao entre Matrizes Estoc\'asticas e Matrizes Geradoras }}{47}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}{Aplica\c {c}\~ao do Teorema 5.3}}{49}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}{Constru\'indo uma Matriz Estoc\'astica a partir do Espa\c {c}o Tangente}}{51}{section.5.3}%
+\contentsline {chapter}{\numberline {6}{Sistemas de Part\'iculas}}{55}{chapter.6}%
+\contentsline {section}{\numberline {6.1}{Uma breve Introdu\c {c}\~ao}}{55}{section.6.1}%
+\contentsline {section}{\numberline {6.2}{Din\^{a}mica do Sistema de Part\'{i}culas}}{58}{section.6.2}%
+\contentsline {section}{\numberline {6.3}{Propriedades e o Gerador de um Sistema de Part\'iculas}}{60}{section.6.3}%
+\contentsline {section}{\numberline {6.4}{Estabelecendo um sistema de part\'iculas a partir da matriz de taxas da se\c {c}\~ao 5.3}}{62}{section.6.4}%
+\contentsline {section}{\numberline {6.5}{Autodualidade}}{65}{section.6.5}%
+\contentsline {section}{\numberline {6.6}{Uma Vers\~ao do Teorema de Noether para o caso estoc\'astico}}{69}{section.6.6}%
+\contentsline {chapter}{\numberline {7}{Conclus\~ao}}{75}{chapter.7}%
+\contentsline {chapter}{{Ap\^endice}}{77}{chapter.7}%
+\contentsline {chapter}{{A. Demonstra\c {c}\~ao da Proposi\c {c}\~ao $5.1$ }}{79}{chapter.7}%
+\contentsline {section}{\numberline {1}{Nota\c {c}\~ao}}{79}{section.Alph0.1}%
+\contentsline {section}{\numberline {2}{Demonstra\c {c}\~ao}}{81}{section.Alph0.2}%
+\contentsline {chapter}{{B. Programa Para C\'alculo da \'Algebra Semi-Simples da Se\c {c}\~ao 5.3}}{95}{Item.65}%
+\contentsline {chapter}{Referência Bibliográfica}{99}{lstnumber.-1.137}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
